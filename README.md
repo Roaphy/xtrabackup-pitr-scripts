@@ -16,7 +16,7 @@ A collection of scripts for managing a robust weekly full and hourly incremental
 
 ## 🛠️ Installation
 
-[cite_start]The `install_xtrabackup.txt` file contains the commands to install Percona XtraBackup on a yum-based system[cite: 1].
+The `install_xtrabackup.txt` file contains the commands to install Percona XtraBackup on a yum-based system.
 
 ```bash
 # From install_xtrabackup.txt
