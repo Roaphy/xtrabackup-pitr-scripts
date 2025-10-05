@@ -12,7 +12,7 @@ A collection of scripts for managing a robust weekly full and hourly incremental
 
 -   A Red Hat-based Linux distribution (CentOS, RHEL, etc.)
 -   Percona XtraBackup 8.0
--   MySQL Server
+-   MySQL Server version 8.0+
 
 ## 🛠️ Installation
 
